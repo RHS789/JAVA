@@ -24,3 +24,16 @@ public class Main {
         System.out.println("parentNum * childNum3 = " + childObj3.parentNum * childObj3.childNum3);
     }
 }
+
+
+/**
+output:
+
+>>javac Main.java
+>>java Main
+
+parentNum * childNum1 = 10
+parentNum * childNum2 = 20
+parentNum * childNum3 = 30
+
+ */
