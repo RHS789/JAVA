@@ -14,3 +14,13 @@ class Bike2 extends Vehicle {
         obj.run();
     }
 }
+
+/**
+output:
+
+>>javac Bike2.java
+>>java Bike2
+
+Bike is running safely
+
+ */
