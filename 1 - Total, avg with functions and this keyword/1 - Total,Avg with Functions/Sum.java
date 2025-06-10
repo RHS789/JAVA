@@ -13,8 +13,10 @@ public class Sum {
 
 /**
 output:
+
 >>javac Sum.java
 >>java Sum
+
 THE SUM OF TWO NUMBER IS 146
 THE AVERAGE OF TWO NUMBER IS 73
 

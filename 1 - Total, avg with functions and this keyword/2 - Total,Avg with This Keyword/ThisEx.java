@@ -19,3 +19,15 @@ class ThisEx {
     S.ThisEx1(x, y);
   }
 }
+
+
+/**
+output:
+
+>>javac ThisEx.java
+>>java This 10 20
+
+THE SUM OF TWO NUMBER IS 30
+THE AVERAGE OF TWO NUMBER IS 15
+
+ */
