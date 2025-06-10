@@ -22,3 +22,16 @@ class Z extends Y {
         obj.methodZ(); // calling local method
     }
 }
+
+
+/**
+output:
+
+>>javac Z.java
+>>java Z
+
+Class X method
+class Y method
+class Z method
+
+ */

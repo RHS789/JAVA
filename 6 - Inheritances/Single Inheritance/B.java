@@ -19,3 +19,14 @@ class B extends A
      obj.methodB(); 
   }
 }
+
+/**
+output:
+
+>>javac B.java
+>>java B
+
+Base class method
+Child class method
+
+ */
