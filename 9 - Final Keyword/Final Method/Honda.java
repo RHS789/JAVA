@@ -15,3 +15,13 @@ class Honda extends Bike {
         honda.run();
     }
 }
+
+/**
+output:
+
+>>javac Honda.java
+>>java Honda
+
+error
+
+ */

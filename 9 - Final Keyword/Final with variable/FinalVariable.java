@@ -12,3 +12,13 @@ class FinalVariable {
         s1.run();
     }
 }
+
+/**
+output:
+
+>>javac FinalVariable.java
+>>java FinalVariable
+
+error
+
+ */

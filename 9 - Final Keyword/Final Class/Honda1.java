@@ -12,3 +12,16 @@ class Honda1 extends Bike// error can not be inherited
         honda.run();
     }
 }
+
+/**
+output:
+
+>>javac Honda1.java
+>>java Honda1
+
+SUPER CLASS DISPLAY
+HELLO
+SUB CLASS DISPLAY
+WELCOME
+
+ */
