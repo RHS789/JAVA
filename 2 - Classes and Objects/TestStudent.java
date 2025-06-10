@@ -1,4 +1,3 @@
-/**
 class Student {
     int rollno;
     String name;
@@ -23,26 +22,15 @@ class TestStudent {
         s2.displayInformation();
     }
 }
-*/
 
-class Student {
-    int a;
-    String b;
 
-    void insertRecord(int c, String d) {
-        a = c;
-        b = d;
-    }
+/**
+output:
 
-    void displayInformation() {
-        System.out.println("Roll no: " + a + " | Name: " + b);
-    }
-}
+>>javac TestStudent.java
+>>java TestStudent
 
-class TestStudent {
-    public static void main(String[] args) {
-        Student s1 = new Student();
-        s1.insertRecord(111, "Raghu");
-        s1.displayInformation(); 
-    }
-}
+111 Karan
+222 Aryan
+
+ */
