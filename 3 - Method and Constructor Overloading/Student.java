@@ -35,3 +35,27 @@ public class Student {
         T.Teacher(5, 6);
     }
 }
+
+
+/**
+output:
+
+>>javac Student.java
+>>java Student
+
+this a default constructor
+
+Default Constructor values: 
+
+Student Id : 0     
+Student Name : null
+
+Parameterized Constructor values:
+
+Student Id : 10
+Student Name : David
+this a default constructor
+this a method overloading
+11
+
+ */
