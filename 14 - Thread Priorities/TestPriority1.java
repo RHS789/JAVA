@@ -13,3 +13,15 @@ class TestPriority1 extends Thread {
         m2.start();
     }
 }
+
+/**
+ 
+>>javac TestPriority1.java
+>>java TestPriority1
+
+running thread name is:Thread-0
+running thread name is:Thread-1
+running thread priority is:1
+running thread priority is:10
+
+ */

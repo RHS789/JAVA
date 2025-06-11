@@ -16,3 +16,17 @@ public class Calc
 		System.out.println("division = " +r);
 	}
 }
+
+/**
+output:
+
+>>javac -d . calculator/DoubleCalculator.java
+>>javac Calc.java
+>>java Calc
+
+sum = 30.0
+diff = -10.0
+product = 200.0
+div = 0.5
+
+ */

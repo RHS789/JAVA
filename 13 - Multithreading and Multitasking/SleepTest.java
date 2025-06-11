@@ -30,3 +30,20 @@ class SleepTest2 extends Thread {
         }
     }
 }
+
+/**
+ 
+>>javac SleepTest.java
+>>java SleepTest
+
+1
+5
+2
+6
+7
+3
+4
+8
+9
+
+ */
