@@ -35,3 +35,23 @@ public class SyncThread extends Thread
 		t2.start();
 	}
 }
+
+/**
+ 
+output:
+
+>>javac SyncThread.java
+>>java SyncThread
+
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+
+ */

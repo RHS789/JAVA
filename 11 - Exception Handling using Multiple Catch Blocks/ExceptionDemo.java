@@ -25,3 +25,19 @@ public class ExceptionDemo {
         in.close();
     }
 }
+
+/**
+output:
+
+>>javac ExceptionDemo.java
+>>java ExceptionDemo
+
+PLEASE ENTER TWO NUMBER FOR DIVISION : 20
+2
+I AM IN TRY BLOCK 1
+
+DIVISION OF TWO NUMBER IS : 10
+
+END OF ARITHMETIC EXCEPTION CONCEPT
+
+ */

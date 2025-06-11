@@ -38,6 +38,9 @@ output:
 >>javac St1.java
 >>java St1
 
-Bike is running safely
+SUPER CLASS DISPLAY
+HELLO
+SUB CLASS DISPLAY
+WELCOME
 
  */

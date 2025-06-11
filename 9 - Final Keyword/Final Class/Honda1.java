@@ -19,9 +19,6 @@ output:
 >>javac Honda1.java
 >>java Honda1
 
-SUPER CLASS DISPLAY
-HELLO
-SUB CLASS DISPLAY
-WELCOME
+error
 
  */
